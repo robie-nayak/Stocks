@@ -1,0 +1,5 @@
+How to select surging stock :
+
+1. Find out the top gainers or losers on the previous day and check if a minimum of ±5% fluctuation was observed in them.
+
+2. 09:45 - 10:45 is the duration of stock reversal. Most stocks play games either between 09:45 - 10:15 or 10:30 - 10:45.
